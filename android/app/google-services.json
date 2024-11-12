@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "389953542458",
+    "project_id": "dress-well-com",
+    "storage_bucket": "dress-well-com.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389953542458:android:b5b4afb205d7c215551803",
+        "android_client_info": {
+          "package_name": "com.dresswell.tailor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389953542458-qv34jbpjhii52ftetmk001ekd6uvoab2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYm71OzMuZxUk9eToiS4zsFzvPMbaIDM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389953542458-qv34jbpjhii52ftetmk001ekd6uvoab2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "389953542458-86ugb4kp0s0o31kummba1l91548u35q5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dresswell.tailor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
